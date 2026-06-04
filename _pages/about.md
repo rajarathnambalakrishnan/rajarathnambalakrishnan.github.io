@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Raja. I completed my Master of Engineering (M Eng) from `University of California - Berkeley`, in Industrial Engineering and Operations Research.
+Hello!
 
-After the Masters program, I completed an year of Research Internship under the SCET, UC Berkeley.
+I'm Raja.
 
-I've worked on projects and research papers ranging from `Optimization` to `Deep Learning in AI`. I'm curious to explore `Machine Learning and Artificial Intelligence` Research Areas.
+I'm passionate about AI Research and Engineering. I have a Master of Engineering (MEng) in **Industrial Engineering and Operations Research** from `University of California - Berkeley`. I have few publications (co-authored) in Deep Learning and Management Science fields.
+
+I'm currently working on AI projects and would soon post some update about them here.
